@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+      <class name="Maven_Demo.Artifact_Maven_Demo.DeepakTest2">
+        <test-method status="PASS" signature="division()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest2@23223dd8]" name="division" duration-ms="1" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method status="PASS" signature="multiply()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest2@23223dd8]" name="multiply" duration-ms="1" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+        <test-method status="PASS" signature="subtract()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest2@23223dd8]" name="subtract" duration-ms="1" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtract -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest2@23223dd8]" name="sum" duration-ms="1" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- Maven_Demo.Artifact_Maven_Demo.DeepakTest2 -->
+      <class name="Maven_Demo.Artifact_Maven_Demo.DeepakTest3">
+        <test-method status="PASS" signature="division()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest3@4ec6a292]" name="division" duration-ms="1" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method status="PASS" signature="multiply()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest3@4ec6a292]" name="multiply" duration-ms="0" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+        <test-method status="PASS" signature="subtract()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest3@4ec6a292]" name="subtract" duration-ms="0" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtract -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest3@4ec6a292]" name="sum" duration-ms="1" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- Maven_Demo.Artifact_Maven_Demo.DeepakTest3 -->
+      <class name="Maven_Demo.Artifact_Maven_Demo.DeepakTest">
+        <test-method status="PASS" signature="division()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest@16c0663d]" name="division" duration-ms="8" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method status="PASS" signature="multiply()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest@16c0663d]" name="multiply" duration-ms="0" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply -->
+        <test-method status="PASS" signature="subtract()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest@16c0663d]" name="subtract" duration-ms="0" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtract -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:Maven_Demo.Artifact_Maven_Demo.DeepakTest@16c0663d]" name="sum" duration-ms="1" started-at="2019-07-05T11:18:38Z" finished-at="2019-07-05T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- Maven_Demo.Artifact_Maven_Demo.DeepakTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
